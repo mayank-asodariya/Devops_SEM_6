@@ -5,5 +5,5 @@ A time zone app using react. You can convert timezones and look at the time in d
 
 ## Mentor
 
-- [@visheshpandey](https://github.com/Vishesh-Pandey)
+- [@mayank-asodariya](https://github.com/mayank-asodariya/Devops_SEM_6.git)
 
